@@ -1,0 +1,10 @@
+<rent>
+  <!-- el formato de los ids que se manejan en el sistema son uuid
+     https://es.wikipedia.org/wiki/Identificador_%C3%BAnico_universal -->
+  <object_id>b172a2ab-5900-4532-bd68-68a041752017</object_id>
+  <client_id>5d65ac9e-d431-4138-a8e4-c4719205cb1b</client_id>
+  <details>
+    <status>RENTED</status>
+    <until>2020/10/01</until>
+  </details>
+</rent>
